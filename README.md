@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nitin Dixit</h1>
 <h3 align="center">I am an undergrad and pursuing my Bachelors. I am passionate about different Technologies</h3>
 
-- 🌱 I’m currently learning **C++,Js**
+- 🌱 I’m currently learning **java and js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nitindixit03?tab=repositories](https://github.com/nitindixit03?tab=repositories)
 
