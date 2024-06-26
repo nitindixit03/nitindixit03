@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://https://x.com/Nitin_Dixit03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/nitin_dixit03" height="30" width="40" /></a>
+<a href="https://twitter.com/https://x.com/Nitin_Dixit03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/nitin_dixit03" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/nitin-dixit-b1bb37289/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nitin-dixit-b1bb37289/" height="30" width="40" /></a>
 <a href="https://instagram.com/im.nitindixit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="im.nitindixit" height="30" width="40" /></a>
 <a href="https://discord.gg/nitin_1817" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nitin_1817" height="30" width="40" /></a>
