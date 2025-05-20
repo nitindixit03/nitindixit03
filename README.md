@@ -5,13 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitindixit03&label=Profile%20views&color=0e75b6&style=flat" alt="nitindixit03" /> </p>
 
-- 📚 Currently Learning: **📚 Currently Learning: Data Structures & Algorithms in Java, and Web Development**
+- 📚 Currently Learning: **📚 Currently Learning: Data Structures & Algorithms, and Web Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nitindixit03?tab=repositories](https://github.com/nitindixit03?tab=repositories)
 
 - 📫 How to reach me **nitinsdixit03@gmail.com**
-
-- 💡 Fun Fact: **I once created a mini-game using only HTML and CSS that got me hooked on web development!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
