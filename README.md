@@ -80,10 +80,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nitindixit03&show_icons=true&locale=en&layout=compact&theme=react" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitindixit03&theme=react" alt="GitHub Streak" />
-</p>
-
 ---
 
 ### 🏆 GitHub Trophies
@@ -93,5 +89,3 @@
 </p>
 
 ---
-
-Thanks for stopping by! ⭐ Feel free to connect, collaborate, or just say hi!
