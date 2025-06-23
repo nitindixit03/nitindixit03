@@ -15,7 +15,7 @@
 - 🔭 I’m currently working on **Full Stack Projects using MERN**
 - 🌱 I’m currently learning **Data Structures & Algorithms and Web Development**
 - 📫 How to reach me: **nitinsdixit03@gmail.com**
-- - 🏏 I love playing **cricket** in my free time!
+- 🏏 I love playing **cricket** in my free time!
 
 ---
 
