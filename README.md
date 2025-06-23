@@ -2,30 +2,29 @@
   <img src="https://github.com/nitindixit03/nitindixit03/blob/main/assests/banner.png?raw=true" alt="Nitin Dixit Banner" width="1000" height="450" />
 </p>
 
-
 <h1 align="center">Hi 👋, I'm Nitin Dixit</h1>
 <h3 align="center">🎓 3rd Year Student at SRM University | 🌐 Passionate about Web Development | 💻 Building Projects and Learning Everyday!</h3>
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=nitindixit03&label=Profile%20views&color=0e75b6&style=flat" alt="nitindixit03" /> 
+<p align="center">
+  
+  <img src="https://komarev.com/ghpvc/?username=nitindixit03&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-🌟 **Welcome to my GitHub!**  
-I'm Nitin, a 3rd-year CSE student passionate about crafting web experiences. Here you'll find my journey, projects, and learnings as I grow in tech!
+### 🚀 About Me
 
-- 📚 **Currently Learning:** Data Structures & Algorithms in Java, and Full Stack Web Development  
-- 👨‍💻 **Projects:** Check out my work at [My GitHub Repositories](https://github.com/nitindixit03?tab=repositories)  
-- 📫 **Contact Me:** nitinsdixit03@gmail.com  
-- 💬 **Discord:** `nitin_1817`  
+- 🔭 I’m currently working on **Full Stack Projects using MERN**
+- 🌱 I’m currently learning **Data Structures & Algorithms and  Web Development**
+- 📫 How to reach me: **nitinsdixit03@gmail.com**
+- 🎮 Fun fact: I love gaming & occasionally design UI mockups
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
+### 🌐 Connect with me
+
 <p align="left">
   <a href="https://x.com/nitin_dixit03" target="_blank">
-    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X (Twitter)" />
+    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://www.linkedin.com/in/nitin-dixit-b1bb37289/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -38,9 +37,9 @@ I'm Nitin, a 3rd-year CSE student passionate about crafting web experiences. Her
   </a>
 </p>
 
-
 ---
-<h3 align="left">💻 Tech Stack:</h3>
+
+### 💻 Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
@@ -59,16 +58,39 @@ I'm Nitin, a 3rd-year CSE student passionate about crafting web experiences. Her
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
+---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nitindixit03&show_icons=true&theme=react&locale=en" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nitindixit03&show_icons=true&locale=en&layout=compact&theme=react" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitindixit03&theme=react" alt="GitHub Streak" />
+</p>
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
+### 🏆 GitHub Trophies
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitindixit03&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nitindixit03&theme=onedark&column=7" alt="GitHub Trophies" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nitindixit03&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitindixit03&" alt="GitHub Streak" /></p>
+### 📂 Featured Projects *(Optional)*
+
+> _You can add cards or links to your key repositories here if you'd like._
+
+- [Portfolio Website](https://github.com/nitindixit03/YourPortfolio)
+- [Project Name 2](https://github.com/nitindixit03/AnotherProject)
+
+---
+
+Thanks for stopping by! ⭐ Feel free to connect, collaborate, or just say hi!
