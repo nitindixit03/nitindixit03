@@ -33,6 +33,9 @@ I'm Nitin, a 3rd-year CSE student passionate about crafting web experiences. Her
   <a href="https://instagram.com/im.nitindixit" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
+  <a href="https://peerlist.io/nitin18" target="_blank">
+    <img src="https://img.shields.io/badge/Peerlist-0A8A7A?style=for-the-badge&logo=peerlist&logoColor=white" alt="Peerlist" />
+  </a>
 </p>
 
 
