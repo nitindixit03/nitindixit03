@@ -60,5 +60,3 @@ I'm Nitin, a 3rd-year CSE student passionate about crafting web experiences. Her
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nitindixit03&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nitindixit03&" alt="GitHub Streak" /></p>
