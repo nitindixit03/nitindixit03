@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/nitindixit03/nitindixit03/blob/main/assets/banner.png" alt="Nitin Dixit Banner" />
+  <img src="https://github.com/nitindixit03/nitindixit03/blob/main/assets/banner.png?raw=true" alt="Nitin Dixit Banner" />
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Nitin Dixit</h1>
 <h3 align="center">🎓 3rd Year Student at SRM University | 🌐 Passionate about Web Development | 💻 Building Projects and Learning Everyday!</h3>
