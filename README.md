@@ -3,10 +3,8 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Nitin Dixit</h1>
-<h3 align="center">🎓 3rd Year Student at SRM University | 🌐 Passionate about Web Development |
-  💻 Building Projects and Learning Everyday!</h3>
+<h3 align="center">🎓 3rd Year Student at SRM University | 🌐 Passionate about Web Development | 💻 Building Projects and Learning Everyday!</h3>
 <p align="center">
-  
   <img src="https://komarev.com/ghpvc/?username=nitindixit03&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
@@ -15,8 +13,9 @@
 ### 🚀 About Me
 
 - 🔭 I’m currently working on **Full Stack Projects using MERN**
-- 🌱 I’m currently learning **Data Structures & Algorithms and  Web Development**
+- 🌱 I’m currently learning **Data Structures & Algorithms and Web Development**
 - 📫 How to reach me: **nitinsdixit03@gmail.com**
+- 💬 Discord: `nitin_1817`
 - 🎮 Fun fact: I love gaming & occasionally design UI mockups
 
 ---
@@ -24,6 +23,12 @@
 ### 🌐 Connect with me
 
 <p align="left">
+  <a href="mailto:nitinsdixit03@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://discord.com/users/nitin_1817" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
   <a href="https://x.com/nitin_dixit03" target="_blank">
     <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
@@ -71,6 +76,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nitindixit03&show_icons=true&locale=en&layout=compact&theme=react" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitindixit03&theme=react" alt="GitHub Streak" />
+</p>
+
 ---
 
 ### 🏆 GitHub Trophies
@@ -80,6 +89,13 @@
 </p>
 
 ---
+
+### 📂 Featured Projects *(Optional)*
+
+> _You can add cards or links to your key repositories here if you'd like._
+
+- [Portfolio Website](https://github.com/nitindixit03/YourPortfolio)
+- [Project Name 2](https://github.com/nitindixit03/AnotherProject)
 
 ---
 
