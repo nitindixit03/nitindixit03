@@ -3,7 +3,8 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Nitin Dixit</h1>
-<h3 align="center">🎓 3rd Year Student at SRM University | 🌐 Passionate about Web Development | 💻 Building Projects and Learning Everyday!</h3>
+<h3 align="center">🎓 3rd Year Student at SRM University | 🌐 Passionate about Web Development |
+  💻 Building Projects and Learning Everyday!</h3>
 <p align="center">
   
   <img src="https://komarev.com/ghpvc/?username=nitindixit03&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
