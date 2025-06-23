@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/nitindixit03/nitindixit03/blob/main/assests/banner.png?raw=true" alt="Nitin Dixit Banner" width="600" />
+  <img src="https://github.com/nitindixit03/nitindixit03/blob/main/assests/banner.png?raw=true" alt="Nitin Dixit Banner" width="1000" />
 </p>
 
 
