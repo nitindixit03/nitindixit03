@@ -16,7 +16,6 @@
 - 🌱 I’m currently learning **Data Structures & Algorithms and Web Development**
 - 📫 How to reach me: **nitinsdixit03@gmail.com**
 - 💬 Discord: `nitin_1817`
-- 🎮 Fun fact: I love gaming & occasionally design UI mockups
 
 ---
 
@@ -26,7 +25,7 @@
   <a href="mailto:nitinsdixit03@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://discord.com/users/nitin_1817" target="_blank">
+  <a href="https://discord.com/users/1144958744174796952" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="https://x.com/nitin_dixit03" target="_blank">
