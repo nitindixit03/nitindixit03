@@ -94,13 +94,4 @@
 
 ---
 
-### 📂 Featured Projects *(Optional)*
-
-> _You can add cards or links to your key repositories here if you'd like._
-
-- [Portfolio Website](https://github.com/nitindixit03/YourPortfolio)
-- [Project Name 2](https://github.com/nitindixit03/AnotherProject)
-
----
-
 Thanks for stopping by! ⭐ Feel free to connect, collaborate, or just say hi!
