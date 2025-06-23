@@ -70,10 +70,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nitindixit03&show_icons=true&locale=en&layout=compact&theme=react" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitindixit03&theme=react" alt="GitHub Streak" />
-</p>
-
 ---
 
 ### 🏆 GitHub Trophies
@@ -83,13 +79,6 @@
 </p>
 
 ---
-
-### 📂 Featured Projects *(Optional)*
-
-> _You can add cards or links to your key repositories here if you'd like._
-
-- [Portfolio Website](https://github.com/nitindixit03/YourPortfolio)
-- [Project Name 2](https://github.com/nitindixit03/AnotherProject)
 
 ---
 
